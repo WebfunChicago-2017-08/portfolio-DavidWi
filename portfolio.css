@@ -1,0 +1,163 @@
+#header{
+    background-color: #f8f8f8;
+    display: inline-block;
+    width: 100%
+}
+#header h1{
+    display: inline-block;
+    font-family: comic sans MS
+}
+#header h2{
+    display: inline-block;
+    margin-left: 750px;
+}
+.mainBody{
+    background-color: #6f5964;
+    padding: 30px;
+    display: inline-block;
+    width: 100%;
+}
+.middle{
+    display: inline-block;
+}
+#portPic img{
+    width: 550px;
+    border: 5px solid #c0c0c0;
+    /* display: inline-block; */
+}
+#portPic{
+    display: inline-block;
+    margin-left: 20px;
+}
+.topper{
+    height: 40px;
+    color: #ffffff;
+}
+#about{
+    display: inline-block;
+    background-color: #eee7ed;
+    width: 550px;
+    height: 375px;
+    vertical-align: top;
+    margin-left: 80px;
+    padding-top: 0px;
+    /* padding-left: 10px; */
+}
+h3{
+    margin-left: 10px;
+}
+#about p{
+    margin-left: 10px;
+}
+#about a{
+    margin-left: 10px;
+}
+
+#LaMode{
+    width: 370px;
+    margin-left: 20px; 
+    margin-top: 20px;
+    background-color: #efe9ef;
+    height: 650px;
+    display: inline-block;
+    vertical-align: top;
+}
+#LaMode img{
+    width: 350px;
+}
+#LaMode ul li img{
+    width: 40px;
+
+}
+#LaMode ul li{
+    list-style-type: none;
+}
+
+#familyContacts{
+    width: 370px;
+    margin-top: 20px;
+    margin-left: 40px; 
+    background-color: #efe9ef;
+    height: 650px;
+    display: inline-block;
+    vertical-align: top;
+}
+#familyContacts img{
+    width: 350px;
+}
+#familyContacts ul li img{
+    width: 40px;
+
+}
+#familyContacts ul li{
+    list-style-type: none;
+}
+#fiveEleven{
+    width: 370px;
+    margin-top: 20px;
+    margin-left: 40px; 
+    background-color: #efe9ef;
+    height: 650px;
+    display: inline-block;
+    vertical-align: top;
+}
+#fiveEleven img{
+    width: 350px;
+}
+#fiveEleven ul li img{
+    width: 40px;
+
+}
+#fiveEleven ul li{
+    list-style-type: none;
+}
+.buttons{
+    width: 200px;
+    height: 50px;
+    background-color: #407d61;
+    color: white;
+    font-size: 20px;
+    font-weight: 5px;
+    margin-left: 70px;
+}
+#lmbutton{
+    margin-top: 20px;
+}
+#fmbutton{
+    margin-top: 15px;
+}
+#fmtech{
+    margin-top: 42px;
+}
+#lmtech{
+    margin-top: 72px;
+}
+#febutton{
+    margin-top: 20px;
+}
+#footer{
+    background-color:#fcfcfc; 
+    display: inline-block;
+}
+#ftrP{
+    margin-left: 550px;
+}
+.ftrimg{
+    width: 20px;
+    display: inline-block;
+}
+#firstftrimg{
+    margin-left: 400px;
+}
+#footer p{
+    display: inline-block;
+}
+#footer ul li img{
+    width: 20px;
+}
+#footer ul li{
+    list-style-type: none;
+}
+#footer ul{
+    margin-left: 460px;
+}
